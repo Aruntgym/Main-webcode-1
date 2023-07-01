@@ -1,0 +1,31 @@
+body{
+    background-color: gray;
+    justify-content: center;
+    color: rgb(120, 197, 241);
+}
+
+.card{
+    margin: 20px 30px;
+
+}
+.container{
+    background-color: rgb(72, 35, 35);
+    color: white;
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 3px 3px 10px 0px rgb(22, 11, 11);
+}
+
+.info{
+    padding: 1rem;
+}
+
+.info span {
+   font-weight:bold;
+}
+
+.image-title{
+    background-color: brown;
+    width: 1400px;
+    height: 300px;
+}
